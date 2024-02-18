@@ -1,0 +1,23 @@
+{
+  "name": "woodcutting-calculator",
+  "version": "1.0.0",
+  "description": "Figures out how much wood you need to buy given the list of measurements you need cut.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wood",
+    "lumber",
+    "cut",
+    "calculate",
+    "saw",
+    "measure",
+    "stock",
+    "board",
+    "length",
+    "diy"
+  ],
+  "author": "Casper",
+  "license": "MIT"
+}
